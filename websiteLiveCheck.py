@@ -14,7 +14,7 @@ def check_website_status(url):
 
 def main():
     try:
-        with open("addresses.txt", "r") as file:
+        with open("D:/programLearn/ChatGPTpromptsForProgramming-p2/addresses.txt", "r") as file:
             addresses = [line.strip() for line in file if line.strip()]
         
         for address in addresses:
