@@ -3,4 +3,4 @@ ChatGPT Prompts For Programming\
 napp.quantic.edu\
 \
 Exercise 3\
-Python Program 2\
+Python Program 2
