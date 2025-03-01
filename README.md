@@ -1,6 +1,8 @@
 Quantic School of Business and Technology Course\
 ChatGPT Prompts For Programming\
-napp.quantic.edu\
+app.quantic.edu\
 \
-Exercise 3\
-Python Program 2
+Exercise 2\
+Python Program 1\
+Website Liveness Check\
+check availibility of list of websites provided in a addresses.txt file
